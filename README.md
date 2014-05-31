@@ -11,8 +11,8 @@ Things to do before launching a project:
 - [ ] Test in IE9
 - [ ] Test in IE8
 - [ ] Test in Firefox
-- [ ] Test in a low-bandwidth situation
 - [ ] Test in Safari
+- [ ] Test in a low-bandwidth situation
 - [ ] Test in Mobile Safari
 - [ ] Test in Chrome for Android
 - [ ] Try it with color blindness simulation
